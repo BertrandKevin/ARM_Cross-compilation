@@ -22,6 +22,6 @@ You can chek if the file is good for ARM: _file prog_ and the answer has to be t
 
 **_prog: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, for GNU/Linux 3.2.0, BuildID[sha1]=1aec53a65fdd71ec68e761b5ef4cd2fae6e4e75c, not stripped_**
 
-And finally you can send the program on the Reach M+ and type these command lines on the Reach when the trasnfert is done:
+And finally you can send the program on the embedded device and type these command lines on the terminal of the embedded device when the trasnfert is done:
 - *sudo chmod +x prog*
 - *./prog*
